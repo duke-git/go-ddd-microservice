@@ -26,4 +26,5 @@ go语言领域驱动微服务架构项目实例
 - 配置管理：https://github.com/spf13/viper
 - jwt鉴权：https://github.com/golang-jwt/jwt
 - structmap转换：https://github.com/mitchellh/mapstructure
+- 事件驱动框架：https://github.com/ThreeDotsLabs/watermill
 - util工具函数库：https://github.com/duke-git/lancet
