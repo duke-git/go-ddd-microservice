@@ -4,7 +4,7 @@ import (
 	"go-ddd-microservice/internal/domain/leave/entity/vo"
 )
 
-type Leavel struct {
+type Leave struct {
 	Id                   string
 	Applicant            vo.Applicant
 	Approver             vo.Approver

@@ -7,5 +7,5 @@ type ApprovalInfo struct {
 	Approver       vo.Approver
 	ApprovalType   vo.ApprovalType
 	Message        string
-	time           int64
+	Time           int64
 }
