@@ -14,5 +14,6 @@ type Leave struct {
 	EndTime              string
 	Duration             int64
 	LeaderMaxLevel       int
+	CurrentApprovalInfo  ApprovalInfo
 	CurrentApprovalInfos []*ApprovalInfo
 }

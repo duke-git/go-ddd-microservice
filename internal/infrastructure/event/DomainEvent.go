@@ -1,6 +1,6 @@
 package event
 
-type Event interface {
+type EventSender interface {
 	Send(event DomainEvent) error
 }
 
